@@ -8,7 +8,6 @@ import java.util.List;
 public class Finder {
     private Args args;
 
-
     public Finder(Args args){
         this.args = args;
     }
